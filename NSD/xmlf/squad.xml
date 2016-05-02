@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="NSD">
+	<name>NORD Special Division</name>
+	<email>NORD@lortemail.dk</email>
+	<web>Not Available</web>
+	<picture>sqd_logo.paa</picture>
+	<title>NORD S.D.</title>
+	<member id="77376198" nick="Sgt Kean">
+		<name>Sgt Kean</name><email>SgtKean@lortemail.dk</email><icq></icq><remark>First Class Seaman</remark>
+		</member>
+	<member id="116966534" nick="CoCobjorn">
+		<name>CoCobjorn</name><email>CoCobjorn@lortemail.dk</email><icq></icq><remark>Major</remark>
+		</member>
+	<member id="76561197971863188" nick="KaRaven">
+		<name>KaRaven</name><email>KaRaven@lortemail.dk</email><icq></icq><remark>Colonel</remark>
+		</member>
+	<member id="112705030" nick="SandboxDenmark">
+		<name>SandboxDenmark</name><email>SandboxDenmark@lortemail.dk</email><icq></icq><remark>Captain</remark>
+		</member>
+	<member id="71913350" nick="ZeeZ">
+		<name>ZeeZ</name><email>ZeeZ@lortemail.dk</email><icq></icq><remark>Master Seaman</remark>
+		</member>
+	</squad>
