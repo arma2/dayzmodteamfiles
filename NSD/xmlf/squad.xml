@@ -7,19 +7,15 @@
 	<web>Not Available</web>
 	<picture>sqd_logo.paa</picture>
 	<title>NORD S.D.</title>
-	<member id="77376198" nick="Sgt Kean">
-		<name>Sgt Kean</name><email>SgtKean@lortemail.dk</email><icq></icq><remark>First Class Seaman</remark>
-		</member>
-	<member id="116966534" nick="CoCobjorn">
-		<name>CoCobjorn</name><email>CoCobjorn@lortemail.dk</email><icq></icq><remark>Major</remark>
+	<member id="116966534" nick="S.A.">
+		<name>S.A.</name><email>S.A.@lortemail.dk</email><icq></icq><remark>Major</remark>
 		</member>
 	<member id="76561197971863188" nick="KaRaven">
 		<name>KaRaven</name><email>KaRaven@lortemail.dk</email><icq></icq><remark>Colonel</remark>
 		</member>
-	<member id="112705030" nick="SandboxDenmark">
-		<name>SandboxDenmark</name><email>SandboxDenmark@lortemail.dk</email><icq></icq><remark>Captain</remark>
+	<member id="112705030" nick="BOB">
+		<name>BOB</name><email>BOB@lortemail.dk</email><icq></icq><remark>Captain</remark>
 		</member>
-	<member id="71913350" nick="ZeeZ">
-		<name>ZeeZ</name><email>ZeeZ@lortemail.dk</email><icq></icq><remark>Master Seaman</remark>
+		<name>NEW</name><email>NEW@lortemail.dk</email><icq></icq><remark>First Class</remark>
 		</member>
 	</squad>
